@@ -1,7 +1,8 @@
+---
 main:
-  - name: "Github"
-    link: "https://github.com/"
-    image: "/images/social/github.png"
-  - name: "Twitter"
-    link: "https://twitter.com/"
-    image: "/images/social/twitter.png"
+- name: Blues
+  link: https://google.com/
+  image: "/images/social/github.png"
+- name: Bears
+  link: https://google.com/
+  image: "/images/social/twitter.png"

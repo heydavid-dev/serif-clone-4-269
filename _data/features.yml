@@ -1,10 +1,44 @@
+---
 main:
-  - title: "Free Consultation"
-    description: "New clients receive an obligation free consultation."
-    image: "/images/features/noun_branding_1885335.png"
-  - title: "Certified Accountants"
-    description: "All members of our team are certified accountants."
-    image: "/images/features/noun_The Process_1885341.png"
-  - title: "Tax Compliance"
-    description: "We stay up to date on the latest changes to the tax code."
-    image: "/images/features/noun_3d modeling_1885342.png"
+- title: Consultation
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquam,
+    augue a aliquam rhoncus, magna libero sollicitudin est, ut mattis erat ex vel
+    erat. Nunc risus urna, luctus non orci eu, lacinia egestas diam. Morbi nunc tortor,
+    congue et dui non, accumsan molestie nisi. Fusce ac placerat risus. Suspendisse
+    at pretium dui. Suspendisse sed viverra libero. Fusce euismod augue vitae sapien
+    tempor tempus. Nulla lobortis nunc in nisi dignissim, non feugiat turpis mattis.
+    Maecenas vitae diam id lectus dictum maximus sit amet nec odio.\r\n\r\nNunc erat
+    dolor, hendrerit sed congue eget, consectetur a enim. Curabitur sit amet odio
+    neque. Donec volutpat nisi quis facilisis tristique. Nulla faucibus lorem et pulvinar
+    fringilla. Suspendisse luctus eu nulla a blandit. Praesent erat leo, ornare vel
+    urna vitae, rhoncus hendrerit magna. Nam vitae nibh quis nulla rhoncus consequat
+    ac id justo."
+  image: "/images/features/noun_branding_1885335.png"
+- title: Accountants
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquam,
+    augue a aliquam rhoncus, magna libero sollicitudin est, ut mattis erat ex vel
+    erat. Nunc risus urna, luctus non orci eu, lacinia egestas diam. Morbi nunc tortor,
+    congue et dui non, accumsan molestie nisi. Fusce ac placerat risus. Suspendisse
+    at pretium dui. Suspendisse sed viverra libero. Fusce euismod augue vitae sapien
+    tempor tempus. Nulla lobortis nunc in nisi dignissim, non feugiat turpis mattis.
+    Maecenas vitae diam id lectus dictum maximus sit amet nec odio.\r\n\r\nNunc erat
+    dolor, hendrerit sed congue eget, consectetur a enim. Curabitur sit amet odio
+    neque. Donec volutpat nisi quis facilisis tristique. Nulla faucibus lorem et pulvinar
+    fringilla. Suspendisse luctus eu nulla a blandit. Praesent erat leo, ornare vel
+    urna vitae, rhoncus hendrerit magna. Nam vitae nibh quis nulla rhoncus consequat
+    ac id justo."
+  image: "/images/features/noun_The Process_1885341.png"
+- title: Compliance
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquam,
+    augue a aliquam rhoncus, magna libero sollicitudin est, ut mattis erat ex vel
+    erat. Nunc risus urna, luctus non orci eu, lacinia egestas diam. Morbi nunc tortor,
+    congue et dui non, accumsan molestie nisi. Fusce ac placerat risus. Suspendisse
+    at pretium dui. Suspendisse sed viverra libero. Fusce euismod augue vitae sapien
+    tempor tempus. Nulla lobortis nunc in nisi dignissim, non feugiat turpis mattis.
+    Maecenas vitae diam id lectus dictum maximus sit amet nec odio.\r\n\r\nNunc erat
+    dolor, hendrerit sed congue eget, consectetur a enim. Curabitur sit amet odio
+    neque. Donec volutpat nisi quis facilisis tristique. Nulla faucibus lorem et pulvinar
+    fringilla. Suspendisse luctus eu nulla a blandit. Praesent erat leo, ornare vel
+    urna vitae, rhoncus hendrerit magna. Nam vitae nibh quis nulla rhoncus consequat
+    ac id justo."
+  image: "/images/features/noun_3d modeling_1885342.png"
